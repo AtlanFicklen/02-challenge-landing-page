@@ -1,0 +1,148 @@
+body {
+    background-color: rgb(231, 231, 231);
+}
+
+.logo{
+    background-color: gray;
+}
+
+.logo img{
+    width: 125px;
+    border: solid 3px black;
+    border-radius: 100%;
+}
+
+#top_menu a{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    padding: 2rem;
+    color: black;
+    text-decoration: none;
+    float: right;
+}
+
+.Rates{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+    float: left;
+    color: rgb(34, 185, 185);
+    border: solid 10px black;
+    display: block;
+    width: 736.5px;
+}
+.Rates td{
+    padding: 6px 10px;
+}
+
+.Schedule{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+    float: right;
+    color: rgb(34, 185, 185);
+    border: solid 10px black;
+}
+.Schedule td{
+    padding: 0.825rem;
+}
+
+.hours_operation {
+    color: black;
+    font-size: 35px;
+    align-self: center !important;
+}
+
+.information {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    font-weight: 500;
+    padding: 10px;
+    float: left;
+    overflow: hidden;
+}
+
+.information p{
+    padding: 5px;
+}
+
+.title {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-weight: 800;
+    margin-top: 0;
+}
+
+.reviews {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    float: right;
+    display: block;
+    width: 40%;
+    padding-left: 10px;
+}
+.quote {
+    font-size: large;
+}
+
+.author {
+    font-size: small;
+    font-weight: 600;
+}
+
+.man-climbing img{
+    margin: 10px;
+    display: block;
+    width: 55%;
+}
+
+.map img{
+    float: bottom;
+    margin: 10px;
+    display: block;
+    width: 55%;
+}
+
+.top_photo {
+    float: left;
+}
+
+.top_photo img{
+    display: block;
+    height: 491px;
+}
+
+.form {
+    font-size: 25px;
+    font-weight: bolder;
+    margin-bottom: 25px;
+    border: solid 3px black;
+    padding-bottom: 2px;
+    background-color: rgb(35, 185, 185);
+    display: block;
+    width: 50%;
+}
+
+.form p {
+    margin: 15px 5px 5px 5px;
+    font-weight: bolder;
+}
+
+.email {
+    font-size: 25px;
+}
+
+.Trainers {
+    float: right;
+    display: block;
+    width: 40%;
+}
+
+.Trainers img {
+    width: 250px;
+    border-radius: 25%;
+}
+
+.footer {
+    text-align: center;
+}
